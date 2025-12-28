@@ -116,9 +116,12 @@ uvicorn main:app --reload
 
 ---
 
+## Screenshots
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f8a0fa76-7975-41da-a7a5-c533358a4089" />
+
+
 ## 🧩 Future Enhancements
 
-* 📚 RAG-based solution retrieval
 * ⭐ Bookmark & history tracking
 * ⏱️ Contest mode support
 * 🔐 User authentication
