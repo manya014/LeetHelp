@@ -150,8 +150,5 @@ This project is licensed under the **MIT License**.
 
 ⭐ If you find LeetHelp useful, consider giving it a star!
 
-```
 
-
-Just tell me 😄
 ```
